@@ -27,12 +27,11 @@ text-decoration: none;
 li a:hover {
 background-color: black;
 }
-
-.nav {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color:slategrey;
-  }
+  .nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:slategrey;
+}
   
