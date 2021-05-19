@@ -52,6 +52,18 @@ h1{
   p{
     font-size:120%;
     color: white;
-    background-color: rgb(21, 103, 211);
-    opacity: 0.6;
+    background-color: slategrey;
+   
+    
   }
+  
+  p.double {border-style: double;}
+
+
+  h2{
+    color: black; 
+    font-size: 1;
+    text-align: center;
+  }
+
+  
