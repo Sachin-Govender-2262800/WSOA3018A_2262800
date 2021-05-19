@@ -56,8 +56,12 @@ h1{
    
     
   }
-  
-  p.double {border-style: double;}
+
+  p1{
+    font-size:120%;
+    color: white;
+    background-color: slategrey;
+  }
 
 
   h2{
