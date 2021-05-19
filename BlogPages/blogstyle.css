@@ -73,4 +73,9 @@ h1{
     text-align: center;
   }
 
+  pre{
+    color:white;
+    font-size: 145%;
+    background-color: slategrey;
+  }
   
