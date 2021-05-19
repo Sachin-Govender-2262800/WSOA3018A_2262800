@@ -51,4 +51,7 @@ h1{
 
   p{
     font-size:120%;
+    color: white;
+    background-color: rgb(21, 103, 211);
+    opacity: 0.6;
   }
