@@ -8,7 +8,7 @@ h1{
   body{
     background-color:#1e2529;
   }
-  
+
 
   .header{
       background-color: skyblue;
@@ -52,6 +52,11 @@ h1{
   .blogs{
     font-size: 110%;
   }
+
+  a{
+    color: #87ceeb;
+    }
+  
 
   p{
     font-size:120%;
