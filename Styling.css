@@ -44,25 +44,6 @@ background-color: black;
 }
 
 
-
-li1 {
-float: left;
-}
-
-li1 a {
-display: block;
-color: rgb(48, 48, 48);
-text-align: center;
-padding: 14px 16px;
-text-decoration: none;
-
-}
-
-li1 a:hover {
-background-color: black;
-}
-
-
   nav {
   list-style-type: none;
   margin: 0;
