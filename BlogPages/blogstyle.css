@@ -5,7 +5,11 @@ h1{
     text-align: center;
   }
   
+  body{
+    background-color:#1e2529;
+  }
   
+
   .header{
       background-color: skyblue;
       padding: 10px;
@@ -58,9 +62,8 @@ h1{
     
   }
 
-  
   h2{
-    color: black; 
+    color: white; 
     font-size: 1;
     text-align: center;
   }
