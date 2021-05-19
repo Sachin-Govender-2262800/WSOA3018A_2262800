@@ -6,6 +6,10 @@
   text-align: center;
 }
 
+body{
+  background-color:#1e2529;
+}
+
 
 .header{
     background-color: skyblue;
@@ -45,4 +49,9 @@ background-color: black;
   overflow: hidden;
   background-color:slategrey;
 }
+
+p{
+  color:white;
+  font-size: 120%;
+}  
   
