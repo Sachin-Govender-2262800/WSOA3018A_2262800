@@ -2,13 +2,15 @@
  .h1{
   color: white; 
   font-size: 350%;
+  padding: 15px;
+  text-align: center;
 }
 
 
 .header{
     background-color: skyblue;
-    padding: 15px;
-    text-align: center;
+    padding: 10px;
+   
 }
 
  .ul {
