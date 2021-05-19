@@ -55,7 +55,7 @@ background-color: black;
 p{
   color:white;
   font-size: 140%;
-  background-color: slategrey;
+  /*background-color: slategrey;*/
 }  
 
 pre{
