@@ -64,13 +64,6 @@ h1{
     background-color: slategrey;
     text-align: center;
    
-    
-  }
-
-  h2{
-    color: white; 
-    font-size: 1;
-    text-align: center;
   }
 
   pre{
@@ -78,4 +71,13 @@ h1{
     font-size: 145%;
     background-color: slategrey;
   }
+
+
+  h2{
+    color: white; 
+    font-size: 1;
+    text-align: center;
+  }
+
+  
   
