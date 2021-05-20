@@ -104,6 +104,12 @@ background-color:slategrey;
    
   }
 
+  article{
+    border: 5px solid slategray;
+ margin: 0;
+  background-color:slategrey
+ }
+
   pre{
     color:white;
     font-size: 145%;
