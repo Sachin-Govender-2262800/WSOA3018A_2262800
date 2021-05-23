@@ -5,7 +5,7 @@
   bottom: 0;
   width: 100%;
   background-color:slategrey;
-  color: white;
+  color: black;
   text-align: left;
 }
   
@@ -15,16 +15,16 @@
   text-align: center;
   padding: 12px 0;
   transition: all 0.3s ease-in-out;
-  color: white;
+  color: black;
   font-size: 36px;
 }
 
 .icon-bar a:hover {
-  background-color: #000;
+  background-color: black;
 }
 
 .facebook{
- padding: 3px;
+ padding: 5px;
  width: 35px;
  text-align:left;
  text-decoration: none;
@@ -35,8 +35,97 @@
 }
 
 .facebook{
- color:white;
+ color:black;
 }
 
+
+
+
+
+.instagram{
+  padding: 5px;
+  width: 35px;
+  text-align:left;
+  text-decoration: none;
+ }
+ 
+ .instagram:hover {
+  opacity: 0.7;
+ }
+ 
+ .instagram{
+  color:black;
+ }
+ 
   
+
+
+ .twitter{
+  padding: 5px;
+  width: 35px;
+  text-align:left;
+  text-decoration: none;
+ }
+ 
+ .twitter:hover {
+  opacity: 0.7;
+ }
+ 
+ .twitter{
+  color:black;
+ }
     
+
+
+
+ .email{
+  padding: 5px;
+  width: 35px;
+  text-align:left;
+  text-decoration: none;
+ }
+ 
+ .email:hover {
+  opacity: 0.7;
+ }
+ 
+ .email{
+  color:black;
+ }
+
+
+
+
+ .pintrest{
+  padding: 5px;
+  width: 35px;
+  text-align:left;
+  text-decoration: none;
+ }
+ 
+ .pintrest:hover {
+  opacity: 0.7;
+ }
+ 
+ .pintrest{
+  color:black;
+ }
+
+
+
+
+
+ .whatsapp{
+  padding: 5px;
+  width: 35px;
+  text-align:left;
+  text-decoration: none;
+ }
+ 
+ .whatsapp:hover {
+  opacity: 0.7;
+ }
+ 
+ .whatsapp{
+  color:black;
+ }

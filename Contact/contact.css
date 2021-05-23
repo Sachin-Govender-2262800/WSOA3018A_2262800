@@ -1,0 +1,25 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  tr{background-color: slategrey;
+      color: white;
+  
+  }
+  
+  th {
+    background-color: skyblue;
+    color: white;
+  }
+
+
+
+
+
+  
