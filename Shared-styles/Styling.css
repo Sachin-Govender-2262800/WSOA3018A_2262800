@@ -16,12 +16,25 @@ body{
    
 }
 
+
+
+  
+  nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:slategrey;
+}
+
+
+
  ul {
 list-style-type: none;
 margin: 0;
 padding: 0;
 overflow: hidden;
-background-color:slategrey;
+
 
 }
 
@@ -57,14 +70,6 @@ lib {
   
   }
   
-  
-  nav {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color:slategrey;
-}
 
 p{
   color:white;
@@ -86,3 +91,10 @@ a{
 .Maria{
   width:400px;height:500px;
 }
+
+
+
+
+
+
+
