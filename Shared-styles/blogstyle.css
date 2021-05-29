@@ -5,6 +5,20 @@ h1{
   text-align: center;
 }
 
+h2{
+  color: white; 
+  font-size: 1;
+  text-align: center;
+}
+
+h3{
+  color: white; 
+  font-size: 2;
+  text-align: center;
+}
+
+
+
 body{
   background-color:#1e2529;
 }
@@ -117,11 +131,7 @@ background-color:slategrey;
   }
 
 
-  h2{
-    color: white; 
-    font-size: 1;
-    text-align: center;
-  }
+  
 
   p1{
     font-size:100%;
@@ -155,4 +165,10 @@ background-color:slategrey;
         color: white;
         text-align: center;
       }
+
+
+BlogList img{
+  width:400px;
+  height:300px;
+}  
   
