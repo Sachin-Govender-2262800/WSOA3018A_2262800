@@ -1,18 +1,15 @@
-
-
-/* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
   position: relative;
   margin: auto;
 }
 
-/* Make the images invisible by default */
+
 .Containers {
   display: none;
 }
 
-/* forward & Back buttons */
+
 .Back, .forward {
   cursor: pointer;
   position: absolute;
@@ -28,40 +25,17 @@
   user-select: none;
 }
 
-/* Place the "forward button" to the right */
+
 .forward {
   right: 0;
   border-radius: 4px 0 0 4px;
 }
 
-/*when the user hovers,add a black background with some little opacity */
 .Back:hover, .forward:hover {
   background-color: rgba(0,0,0,0.8);
 }
 
-/* Caption Info */
-.Info {
-  color: #e3e3e3;
-  font-size: 16px;
-  padding: 10px 14px;
-  position: absolute;
-  bottom: 10px;
-  width: 100%;
-  text-align: center;
-}
-.Al {
-  color: #e3e3e3;
-  font-size: 16px;
-  padding: 10px 14px;
-  position: absolute;
-  bottom: 10px;
-  width: 100%;
-  text-align: center;
-}
 
-
-
-/* Faint animation */
 .fade {
   -webkit-animation-name: fade;
   -webkit-animation-duration: 1.4s;
@@ -77,4 +51,10 @@
 @keyframes fade {
   from {opacity: .5}
   to {opacity: 2}
+}
+
+carousel img
+{
+  width: 1000px;
+  height: 300px;
 }
