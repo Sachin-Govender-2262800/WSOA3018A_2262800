@@ -111,10 +111,11 @@ background-color:slategrey;
   
 
   p{
-    font-size:105%;
+    font-size:115%;
     color: white;
     background-color: slategrey;
     text-align: center;
+    border:5px solid slategray;
    
   }
 
