@@ -1,34 +1,44 @@
+
+ 
  h1{
   color: white; 
-  font-size: 350%;
+  font-size: 300%;
   padding: 15px;
   text-align: center;
+  font-family: "Trirong", serif;
+  
+  
 }
 
 h2{
   color: white; 
-  font-size: 200%;
+  font-size: 150%;
   padding: 15px;
   text-align: center;
+  font-family: "Trirong", serif;
 }
 
 h3{
   color: white; 
-  font-size: 170%;
+  font-size: 120%;
   padding: 15px;
   text-align: center;
+  font-family: "Trirong", serif;
 }
 
 h4{
   color: white; 
-  font-size: 150%;
+  font-size: 100%;
   padding: 15px;
   text-align: center;
+  font-family: "Trirong", serif;
 }
 
 
 body{
   background-color:#1e2529;
+  font-family: "Trirong", serif;
+  font-size: 100%;
 }
 
 
