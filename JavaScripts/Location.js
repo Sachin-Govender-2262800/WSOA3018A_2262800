@@ -1,4 +1,4 @@
-var x = document.getElementById("LocationFinder");
+let x = document.getElementById("LocationFinder");
 
 function getLocation() {
   if (navigator.geolocation) {
@@ -14,7 +14,7 @@ function showPosition(position) {
 }
 
 function myFunction() {
-    var x = document.getElementById("myDIV");
+    let x = document.getElementById("myDIV");
     if (x.innerHTML === "Hello") {
       x.innerHTML = "Swapped text!";
     } else {

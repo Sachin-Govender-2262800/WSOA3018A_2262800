@@ -12,9 +12,9 @@ function currentSlide(n) {
 }
 
 function SlideShow(n) {
-  var i;
-  var slides = document.getElementsByClassName("Containers");
-  var circles = document.getElementsByClassName("dots");
+  let i;
+  let slides = document.getElementsByClassName("Containers");
+  let circles = document.getElementsByClassName("dots");
   if (n > slides.length) {slidePosition = 1}
   if (n < 1) {slidePosition = slides.length}
   for (i = 0; i < slides.length; i++) {
