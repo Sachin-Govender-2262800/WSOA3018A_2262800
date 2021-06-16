@@ -126,6 +126,22 @@ a{
 
 
 
+@media screen and (max-width: 600px) {
+  li {
+    
+    float: none;
+    width: 100%;
+  }
+
+}
+@media screen and (max-width: 600px) {
+  lib {
+    
+    float: none;
+    width: 100%;
+  }
+
+}
 
 
 
