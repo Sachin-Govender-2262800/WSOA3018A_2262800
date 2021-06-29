@@ -168,6 +168,22 @@
         </Loc><br>
         
           
+        <h2>A map of the area I work in</h2>
+        <div id = "map"></div>
+        <script>
+          function initMap() {
+            let Johannesburg = {lat: -26.203250, lng: 28.041054}
+            let map = new google.maps.Map(
+              document.getElementById('map'), {zoom: 4, center: Johannesburg }
+            );
+            let marker = new goggle.maps.Marker({position: Johannesburg, map: map})
+          }
+        </script>
+
+<script async
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDSdv-vgk0RJb_VZBIhqB4E5bQRijhJKvU&callback=initMap">
+</script>
+<br>
 </main><br>
 
 
