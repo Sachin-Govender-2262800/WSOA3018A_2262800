@@ -81,7 +81,30 @@
  <a href = "../BlogPages/blogs/BlogPages/PersonalBlogs/personalblog4.html">Why a website?</a>
  
 </article><br></br>
+<br>
+<br>
+<div id = "Gmap">
 
+
+  <p>I do have a challenge for you... This map may just portray where I live... but as google Api requests billing and 1. I can't afford that. 2 I am not giving my payment details to google.
+    Your challenge should you decide to accept it, is to locate where I actually am... The location that is given is too a school that I live near...
+    You might be asking why would I do this... well theres no fun in doing something illegal if there isn't a chance I might get caught ;). Even if you do break the lock on this map 
+    I have counter measures to make sure you don't find me.
+  </p>
+</div>
+<script>
+function initMap() {
+var location = {lat: -26.145228, lng:27.905850 };
+var map = new google.maps.Map(document.getElementById("Gmap"), {zoom: 4, center: location});
+var marker = new google.maps.Marker({position :location, map: map });
+}
+
+
+</script>
+
+<script async defer src ="https://maps.googleapis.com/maps/api/js?key=AIzaSyDSdv-vgk0RJb_VZBIhqB4E5bQRijhJKvU&callback=initMap">
+
+</script>
 
 
 <a style="color:red ;" href="./TheoreticalAbout.html">Character Rationale</a><br></br>
