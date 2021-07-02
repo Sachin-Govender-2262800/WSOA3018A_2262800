@@ -43,7 +43,7 @@ body{
 
 
 .header{
-    background-color: skyblue;
+    background-color: #1167b1;
     padding: 10px;
    
 }
@@ -56,7 +56,7 @@ body{
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color:slategrey;
+  background-color: #E1DDE0;
 }
 
 
@@ -76,7 +76,7 @@ float: left;
 
 li a {
 display: block;
-color: white;
+color: black;
 text-align: center;
 padding: 14px 16px;
 text-decoration: none;
@@ -84,7 +84,7 @@ text-decoration: none;
 }
 
 li a:hover {
-background-color: black;
+background-color: grey;
 }
 
 lib {

@@ -39,7 +39,7 @@ body{
 
 
 .header{
-    background-color: skyblue;
+    background-color: #1167b1;
     padding: 10px;
    
 }
@@ -72,7 +72,7 @@ background-color:slategrey;
     
     li a {
     display: block;
-    color: white;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -80,7 +80,7 @@ background-color:slategrey;
     }
     
     li a:hover {
-    background-color: black;
+    background-color: grey;
     }
 
 
@@ -111,7 +111,7 @@ background-color:slategrey;
       margin: 0;
       padding: 0;
       overflow: hidden;
-      background-color:slategrey;
+      background-color:#E1DDE0;
     }
 
   .blogs{
@@ -126,17 +126,17 @@ background-color:slategrey;
 
   p{
     font-size:115%;
-    color: white;
-    background-color: slategrey;
+    color: black;
+    background-color: #E1DDE0;
     text-align: center;
-    border:5px solid slategray;
+    border:5px solid #E1DDE0;
    
   }
 
   article{
-    border: 5px solid slategray;
+    border: 5px solid #E1DDE0;
  margin: 0;
-  background-color:slategrey
+  background-color:#E1DDE0
  }
 
   pre{

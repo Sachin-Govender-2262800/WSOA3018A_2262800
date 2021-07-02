@@ -14,7 +14,7 @@ table {
   }
   
   th {
-    background-color: skyblue;
+    background-color: #1167b1;
     color: white;
   }
 
@@ -50,7 +50,7 @@ table {
 
   button {
     align-items: center;
-    background-color: skyblue; 
+    background-color: #1167b1; 
     border: none;
     color: white;
     padding: 15px 32px;
@@ -78,7 +78,7 @@ table {
   
  
   input[type=submit] {
-    background-color: skyblue;
+    background-color: #1167b1;
     color: white;
     padding: 12px 20px;
     border: none;
