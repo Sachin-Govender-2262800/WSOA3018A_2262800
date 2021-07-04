@@ -1,4 +1,4 @@
-const menuItems = [
+/*const menuItems = [
 {title: "HomePage", link: "/"},
 {title: "About", link: "/about"},
 {title: "Blogs", link: "/blogs"},
@@ -33,3 +33,34 @@ nav.appendChild(ul);
 
 
 document.addEventListener('DOMContentLoaded', () => IntialiseMenu() );
+*/
+
+
+/*
+    function HomePageredirect() {
+      window.location.href = "index.html";
+    };      
+
+    function AboutPageredirect() {
+        window.location.href = "about.html";
+      }; 
+
+      function HomePageredirect() {
+        window.location.href = "index.html";
+      }  
+
+      function HomePageredirect() {
+        window.location.href = "index.html";
+      }  
+
+      function HomePageredirect() {
+        window.location.href = "index.html";
+      }  
+
+      function HomePageredirect() {
+        window.location.href = "index.html";
+      }  
+*/
+
+
+     

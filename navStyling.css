@@ -1,0 +1,39 @@
+.nav button{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #E1DDE0;
+  
+}
+
+
+
+ nav button {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+
+
+}
+
+ nav button {
+float: left;
+}
+
+nav button {
+display: block;
+color: black;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+
+border: none;
+
+
+}
+
+nav :hover {
+background-color: grey;
+}
