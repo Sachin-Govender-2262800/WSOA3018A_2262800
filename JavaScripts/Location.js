@@ -12,20 +12,20 @@
       const latitude  = position.coords.latitude;
       const longitude = position.coords.longitude;
   
-      status.textContent = '';
+      status.textContent = 'Well Well Well.. Hello there';
       mapLink.href = `https://www.openstreetmap.org/#map=18/${latitude}/${longitude}`;
       mapLink.textContent = `Latitude: ${latitude} °, Longitude: ${longitude} °`;
       
     }
   
     function error() {
-      status.textContent = 'Unable to retrieve your location';
+      status.textContent = ':) could not find your loctaion';
     }
   
     if(!navigator.geolocation) {
-      status.textContent = 'Geolocation is not supported by your browser';
+      status.textContent = 'Lucky :3 Your browser does not support it.';
     } else {
-      status.textContent = 'Locating…';
+      status.textContent = 'Tracking';
       navigator.geolocation.getCurrentPosition(success, error);
      
     }
